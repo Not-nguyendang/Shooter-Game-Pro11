@@ -27,7 +27,8 @@ I choose an outerspace theme for this project (so that's why the enemies are ali
 
 I create a simple condition for charactor motion:
 
- Eg :  If key "a" is preseed : 
+ Eg :  
+       If key "a" is preseed : 
          move the character 10 pixels to the left
 
        If the key "d" is pressed :
